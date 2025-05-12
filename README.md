@@ -1,5 +1,4 @@
-# Recreate the final enhanced README.md after code environment reset
-readme_content = """\
+
 ![Sahid Attaf – PiskaTech](banner.png)
 
 # 👋 Hi, I'm Sahid Attaf (aka PiskaTech)
@@ -28,11 +27,6 @@ readme_content = """\
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sahidattaf)
 """
 
-# Save the content to a new file
-readme_path = "/mnt/data/README_sahidattaf_final.md"
-with open(readme_path, "w") as f:
-    f.write(readme_content)
 
-readme_path
 
 
